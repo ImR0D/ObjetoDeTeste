@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "type": "Cozinha",
+    "lightsOnOff": false
+  },
+  {
+    "id": 1,
+    "type": "Quarto",
+    "lightsOnOff": false
+  },
+  {
+    "id": 2,
+    "type": "Banheiro",
+    "lightsOnOff": false
+  },
+  {
+    "id": 3,
+    "type": "Sala de Estar",
+    "lightsOnOff": false
+  },
+  {
+    "id": 4,
+    "type": "Área de Serviço",
+    "lightsOnOff": false
+  },
+  {
+    "id": 5,
+    "type": "Lavanderia",
+    "lightsOnOff": false
+  },
+  {
+    "id": 6,
+    "type": "Varanda",
+    "lightsOnOff": false
+  }
+]

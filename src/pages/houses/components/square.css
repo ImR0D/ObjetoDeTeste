@@ -1,0 +1,17 @@
+.Square {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  background-color: #DFCEC5;
+  color: #000;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.SquareActive {
+    background-color: #EFEF88;
+}
