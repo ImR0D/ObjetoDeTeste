@@ -1,5 +1,5 @@
 ## Regras e Usabilidade:
-• ***<span style="color:#f00">Não deve conter nada na branch principal (main)</span>**  
+• <span style="color:#f00">Não deve conter nada na branch principal (main)</span>  
 • Esse arquivo deverá ser segmentado através de ***novas branches***  
 • Possuirá uma serie de exemplos práticos de atividades utilizando ***React***  
 • O objetivo geral desse **"objeto de testes"** é para práticas do framework ***React***  
